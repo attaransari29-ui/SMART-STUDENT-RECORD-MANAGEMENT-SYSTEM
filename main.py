@@ -51,4 +51,3 @@ def delete_student(student_id):
 # Example usage
 add_student("Attar", 19, "IT")
 view_students()
-
